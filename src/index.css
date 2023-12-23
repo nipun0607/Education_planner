@@ -16,9 +16,12 @@ code {
 #root{
   height:100vh;
   width:100vw;
-  border:2px solid black;
   display: flex;
   justify-content: center;
   align-items: center;
+  background-image: url('https://t4.ftcdn.net/jpg/02/18/89/83/360_F_218898398_wnLuoR9GY4qhLB2tc7o3tSJbQCRfq0xc.jpg');
+  object-fit: cover;
+
+
 }
 
